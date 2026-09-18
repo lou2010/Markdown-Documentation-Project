@@ -8,3 +8,5 @@ Once you have a working file in your local repository to upload, you have to sta
 6.	Write `git status` to see whether the file is ready to be committed.
 7.	Look for `Changes to be committed:` where your file name should be below it. Your file is now ready to be committed.
 If your file name contains a space, add quotation marks. For example, the command could look like this: `git add "Practice File.md"`.
+
+[Next: Committing a Document](committing-a-document.md)

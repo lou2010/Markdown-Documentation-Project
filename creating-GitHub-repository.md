@@ -8,3 +8,5 @@ You need to create a GitHub repository so your content has a place to go on GitH
 6.	Click “Create Repository.”
 
 Adding a description may also be helpful as it will tell visitors what the purpose of the repository is and what the visitor can expect to find. It might be good to choose a name that matches your practice folder so things are consistent and easy for you to locate. Once the repository has been set up, you can move toward making your first commit, bringing you closer to publishing on GitHub.
+
+[Next: Connecting to a Repository Remotely](connect-to-repository.md)

@@ -70,3 +70,5 @@ Now that you know how to create a Markdown file and have seen the basic syntax, 
 * A hyperlink
 
 For this exercise, create a folder on your desktop or your Documents folder so that you can easily access it. That will be important when you get to the point of committing the file to GitHub. Once the file and folder are done, you can then learn about committing changes to Git.
+
+[Next: Create a GitHub Repository](creating-GitHub-repository.md)

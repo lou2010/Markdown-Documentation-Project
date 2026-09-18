@@ -10,3 +10,5 @@ In Git, you have to direct the command line to the folder where the file you had
 6.	Press Enter.
 7.	Enter this on the command line: `git remote -v`. If you receive two lines that say `origin` followed by the GitHub URL, and “fetch” on one line and “push” on the other, this means that you have successfully configured a remote connection.
 At this point, you have made a file, created a GitHub account, a GitHub repository, and now have a remote connection between your local computer and GitHub. Now the next step is to do a commit.
+
+[Next: Staging a Document](staging-a-document.md)

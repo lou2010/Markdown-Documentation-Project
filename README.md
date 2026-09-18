@@ -15,3 +15,5 @@ Git Bash provides access to Git commands that allow you to track changes and pub
 Be sure to choose the correct operating system for your computer. 
 
 Once both are downloaded on your computer, you are ready to begin creating your files in Markdown.
+
+[Start: Prerequisites](prerequisites.md)

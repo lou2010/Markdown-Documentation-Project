@@ -24,3 +24,5 @@ Git Bash is a command-line program that runs Git commands.  Git Bash lets you ru
 5.	Open Git Bash to confirm installation.
 
 After finishing all of these downloads, you’re ready to create your first Markdown file.
+
+[Next: Creating a Markdown file](creating-markdown-file.md)
